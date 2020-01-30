@@ -1,0 +1,105 @@
+.welcome{
+    text-align: center;
+    background-image:url("resources/studio 2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    height: 50vh;
+
+}
+.aa{
+    justify-content: end;
+}
+.f{
+    color: #ffc82f;
+    font-family: "Apple Color Emoji";
+}
+.a{
+    color: white;
+    padding-top: 40px;
+    font-family:aakar ;
+}
+.b{
+    color: white;
+}
+.c{
+    text-align: center;
+    padding-top: 40px;
+}
+.d{
+    text-align: center;
+}
+.img{
+    height: 60px;
+    padding-left: 30px;
+}
+.one{
+    width: 20%;
+}
+.two{
+    width: 60%;
+    display: flex;
+    margin-left: 20%;
+}
+.three{
+    width: 20%;
+}
+.g{
+    color: #444445;
+    padding-top: 20px;
+    text-align: center;
+}
+.about{
+    margin-left: 25%;
+    margin-right: 30%;
+}
+hr{
+    color: #37cfff;
+    border-style: inset;
+}
+.row{
+    display: flex;
+}
+.uno{
+width: 15%;
+}
+.dos{
+    margin-left: 15%;
+    width: 75%;
+    display: flex;
+}
+.dos_1{
+    width: 50%;
+}
+.card-body{
+    margin-left:40%;
+}
+.h{
+    text-align: center;
+}
+.img_2{
+    width: 400%;
+    padding-top: 40px;
+}
+.welcome_2{
+    background-image:url("resources/l.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    height: 70vh;
+    background-size: 90%;
+
+}
+.x{
+    padding-top: 80px;
+    padding-left: 80px;
+    width: 55%;
+}
+.y{
+    padding-left: 80px;
+    padding-top: 20px;
+}
+.z{
+    margin-left: 80px;
+}
+.n{
+    font-size: larger;
+}
